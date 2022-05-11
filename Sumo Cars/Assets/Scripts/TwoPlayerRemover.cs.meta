@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 51adde66ec158b94d83454506b88e8b5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TwoPlayerModel: {fileID: 919132149155446097, guid: fe816bd14896a1a48804aac86274e8d3, type: 3}
+  - PlayerTwoTrail: {fileID: 4233896223647398759, guid: c3da5199fcc73f24daa4da915cc2052d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
